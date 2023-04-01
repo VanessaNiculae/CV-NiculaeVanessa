@@ -34,3 +34,14 @@
     font-family: Lato;
     font-size: 20px;
 }
+
+.description-title {
+    font-family: "Lato Black";
+    font-size: 25px;
+    padding-left: 13px;
+}
+
+.description {
+    padding-top: 80px;
+    padding-bottom: 15px;
+}
