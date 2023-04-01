@@ -1,0 +1,36 @@
+.name {
+    font-family: "Lato Black";
+    font-size: 35px;
+}
+
+.name-section {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+.image{
+    width: 100%;
+    border-radius: 150%;
+}
+
+.contact-title {
+    font-family: "Lato Black";
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+
+.contact-text {
+    font-family: Lato;
+    font-size: 20px;
+}
+
+.social-title {
+    font-family: "Lato Black";
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+
+.social-text {
+    font-family: Lato;
+    font-size: 20px;
+}

@@ -1,4 +1,4 @@
-import '../style.css';
+import './style.css';
 import niculaeVanessa from '../../images/1679777513088.png'
 export const Name = () => {
     return(
