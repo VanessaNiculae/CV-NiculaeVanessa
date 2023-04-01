@@ -1,5 +1,5 @@
-import './style.css';
-import niculaeVanessa from '../images/1679777513088.png'
+import '../style.css';
+import niculaeVanessa from '../../images/1679777513088.png'
 export const Name = () => {
     return(
         <div className={"container"}>
