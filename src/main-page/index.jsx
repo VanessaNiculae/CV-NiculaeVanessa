@@ -1,9 +1,10 @@
 import './style.css';
+import {Name} from "./name";
 
 export const App = () => {
   return(
   <div className={'main-div container'}>
-    Hello, this is my CV :D
+    <Name/>
   </div>
   )
 }
