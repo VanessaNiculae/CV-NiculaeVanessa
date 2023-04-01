@@ -45,3 +45,9 @@
     padding-top: 80px;
     padding-bottom: 15px;
 }
+
+.description-text {
+    font-family: Lato;
+    font-size: 20px;
+    padding-left: 13px;
+}
