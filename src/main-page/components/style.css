@@ -3,6 +3,12 @@
     font-size: 18px;
 }
 
+.job-title {
+    font-family: "Lato Black";
+    font-size: 23px;
+    margin: 0px 0px 2px;
+}
+
 .job {
     padding: 0;
     margin: 0;
@@ -17,7 +23,7 @@
 
 .job-location {
     padding: 0;
-    margin: 0px 0px 7px;
+    margin: 0px 0px 10px;
 }
 
 .job-timeperiod {
