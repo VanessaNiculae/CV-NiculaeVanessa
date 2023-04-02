@@ -1,3 +1,5 @@
+import '../style.css'
+
 export const Description = () => {
     return(
         <div className={"container description"}>

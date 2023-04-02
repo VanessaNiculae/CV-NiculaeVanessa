@@ -1,3 +1,5 @@
+import '../style.css'
+
 export const ContactInfo = () => {
     return (
         <div className={'col-7'}>

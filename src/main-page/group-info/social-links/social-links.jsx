@@ -1,3 +1,5 @@
+import '../style.css'
+
 export const SocialLinks = () => {
     return (
         <div className={'col-5'}>
