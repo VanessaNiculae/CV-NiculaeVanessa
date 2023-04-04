@@ -6,6 +6,7 @@ import {FirstRowContainer} from "./group-info/first-row-container";
 import {Description} from "./group-info/description/description";
 import {WorkExperience} from "./group-info/work-experience/work-experience";
 import {Education} from "./group-info/education";
+import {DigitalSkills} from "./group-info/digital-skills";
 
 export const App = () => {
   return(
@@ -18,6 +19,7 @@ export const App = () => {
     <Description/>
     <WorkExperience/>
     <Education/>
+    <DigitalSkills/>
   </div>
   )
 }
