@@ -1,5 +1,5 @@
 import '../style.css'
-import {Jobs} from "../../components/jobs";
+import {Jobs} from "./components/jobs";
 
 export const WorkExperience= () => {
     return(
